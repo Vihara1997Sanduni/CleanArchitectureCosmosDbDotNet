@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Tests\\CleanArchitectureCosmosDb.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Application\\CleanArchitectureCosmosDb.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Application\\CleanArchitectureCosmosDb.Application.csproj",
+        "projectName": "CleanArchitectureCosmosDb.Application",
+        "projectPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Application\\CleanArchitectureCosmosDb.Application.csproj",
+        "packagesPath": "C:\\Users\\Pntium City\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pntium City\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\CleanArchitectureCosmosDb.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\CleanArchitectureCosmosDb.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[7.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\CleanArchitectureCosmosDb.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\CleanArchitectureCosmosDb.Domain.csproj",
+        "projectName": "CleanArchitectureCosmosDb.Domain",
+        "projectPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\CleanArchitectureCosmosDb.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pntium City\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pntium City\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Tests\\CleanArchitectureCosmosDb.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Tests\\CleanArchitectureCosmosDb.Tests.csproj",
+        "projectName": "CleanArchitectureCosmosDb.Tests",
+        "projectPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Tests\\CleanArchitectureCosmosDb.Tests.csproj",
+        "packagesPath": "C:\\Users\\Pntium City\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pntium City\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Application\\CleanArchitectureCosmosDb.Application.csproj": {
+                "projectPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Application\\CleanArchitectureCosmosDb.Application.csproj"
+              },
+              "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\CleanArchitectureCosmosDb.Domain.csproj": {
+                "projectPath": "C:\\Users\\Pntium City\\CleanArchitectureCosmosDb.Domain\\CleanArchitectureCosmosDb.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.2.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

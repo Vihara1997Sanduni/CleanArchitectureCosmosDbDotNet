@@ -1,0 +1,15 @@
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\bin\Debug\net8.0\CleanArchitectureCosmosDb.Application.deps.json
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\bin\Debug\net8.0\CleanArchitectureCosmosDb.Application.dll
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\bin\Debug\net8.0\CleanArchitectureCosmosDb.Application.pdb
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\bin\Debug\net8.0\CleanArchitectureCosmosDb.Domain.dll
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\bin\Debug\net8.0\CleanArchitectureCosmosDb.Domain.pdb
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArchitectureCosmosDb.Application.csproj.AssemblyReference.cache
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArchitectureCosmosDb.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArchitectureCosmosDb.Application.AssemblyInfoInputs.cache
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArchitectureCosmosDb.Application.AssemblyInfo.cs
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArchitectureCosmosDb.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArc.B2647798.Up2Date
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArchitectureCosmosDb.Application.dll
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\refint\CleanArchitectureCosmosDb.Application.dll
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\CleanArchitectureCosmosDb.Application.pdb
+C:\Users\Pntium City\CleanArchitectureCosmosDb.Application\obj\Debug\net8.0\ref\CleanArchitectureCosmosDb.Application.dll
